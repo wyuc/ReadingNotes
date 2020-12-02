@@ -1,3 +1,4 @@
 # ReadingNotes
 
-* On Java 8
+* On Java 8  
+* Good Habits
